@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Gehalt Oktober",
+    "amount": "3200.00",
+    "type": "income",
+    "category": "salary",
+    "date": "2026-10-01",
+    "notes": "Monatliches Gehalt",
+    "id": "txn_demo_salary",
+    "created_at": "2026-10-01T08:00:00Z",
+    "updated_at": "2026-10-01T08:00:00Z"
+  },
+  {
+    "title": "gehalt",
+    "amount": "1000.00",
+    "type": "income",
+    "category": "salary",
+    "date": "2026-10-08",
+    "notes": null,
+    "id": "txn_a49ec9c5f94e",
+    "created_at": "2026-10-02T13:55:12.797139Z",
+    "updated_at": "2026-10-02T13:55:12.797139Z"
+  }
+]
