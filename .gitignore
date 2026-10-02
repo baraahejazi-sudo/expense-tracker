@@ -23,3 +23,8 @@ release/
 .vscode/
 .idea/
 .DS_Store
+
+# TypeScript build artifacts
+*.tsbuildinfo
+frontend/vite.config.js
+frontend/vite.config.d.ts
