@@ -347,3 +347,7 @@ Die dokumentierte Fehleranalyse befindet sich unter [`docs/abschluss-challenge.m
 ## Lizenz
 
 MIT
+
+## Projektstatus
+
+Das Projekt wurde als Full-Stack-CI/CD-Abschlussprojekt umgesetzt.
